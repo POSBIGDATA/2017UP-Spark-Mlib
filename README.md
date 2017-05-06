@@ -4,8 +4,9 @@ Repositorio para atividades da Disciplina Spark Mlib
 # Trabalhos de tradução
 * http://spark.apache.org/docs/latest/streaming-programming-guide.html
 * http://spark.apache.org/docs/latest/sql-programming-guide.html anderson-marcosestevao
-* http://spark.apache.org/docs/latest/ml-pipeline.html  http://spark.apache.org/docs/latest/ml-clustering.html
-* http://spark.apache.org/docs/latest/ml-features.html (Ricardo - Mirian - Silvio)
+* http://spark.apache.org/docs/latest/ml-pipeline.html (Ricardo - Mirian - Silvio)
+* http://spark.apache.org/docs/latest/ml-clustering.html
+* http://spark.apache.org/docs/latest/ml-features.html 
 * http://spark.apache.org/docs/latest/ml-classification-regression.html (Marcos Leandro - Everton)
 * http://spark.apache.org/docs/latest/ml-collaborative-filtering.html  http://spark.apache.org/docs/latest/ml-tuning.html
 * http://spark.apache.org/docs/latest/mllib-data-types.html (Joceir - José Rodrigues)
