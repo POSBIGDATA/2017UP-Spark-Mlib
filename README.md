@@ -10,7 +10,7 @@ Repositorio para atividades da Disciplina Spark Mlib
 * http://spark.apache.org/docs/latest/ml-classification-regression.html (Marcos Leandro - Everton)
 * http://spark.apache.org/docs/latest/ml-collaborative-filtering.html  http://spark.apache.org/docs/latest/ml-tuning.html
 * http://spark.apache.org/docs/latest/mllib-data-types.html (Joceir - José Rodrigues)
-* http://spark.apache.org/docs/latest/mllib-statistics.html (Jan)
+* http://spark.apache.org/docs/latest/mllib-statistics.html (Jan Pereira)
 * http://spark.apache.org/docs/latest/mllib-linear-methods.html (ANDRE MATSUDA / ADRIANO BARBOSA)  
 * http://spark.apache.org/docs/latest/mllib-clustering.html (Cristiane e Tiyomi)
 * http://spark.apache.org/docs/latest/mllib-frequent-pattern-mining.html Fernando Mello / André Aguiar
