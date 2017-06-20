@@ -60,13 +60,13 @@ Agora sim, basta se certificar que o diretório de destino exista e executar o r
 
 hdfs dfs -put <path_local_book> <path_hdfs_book>
 
-3) Para procurar e listar os livros que contenham uma dada palavra, execute o script abaixo:
+4) Para procurar e listar os livros que contenham uma dada palavra, execute o script abaixo:
 
 //Editar o arquivo SearchWordFile.scala para informar o local onde encontra-se os livros e a palavra a ser buscada.
 
 spark-shell -i SearchWordFile.scala
 
-4) Para procurar, listar e contar os livros que contenham uma dada palavra, execute o script abaixo:
+5) Para procurar, listar e contar os livros que contenham uma dada palavra, execute o script abaixo:
 
 //Editar o arquivo SearchWordCountFile.scala para informar o local onde encontra-se os livros e a palavra a ser buscada.
 
